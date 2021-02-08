@@ -1,0 +1,14 @@
+{
+    "configuration":{
+        "readnoise":5.5,
+        "fovp":0.2,
+        "npixel_width":2.0,
+        "qinput":1.0 ,    
+     }       
+    
+    "spectrum":[]
+    "wavelength":[]
+    "obstime":300 ,
+    "repeatnum":20,
+    "skyr":22.5,
+}
